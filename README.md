@@ -2,9 +2,11 @@
 
 ## 🚀 Senior Backend Engineer | Laravel & PHP Architect
 
+🌐 **Portfolio:** https://portfolio-two-orcin-99.vercel.app/
+
 I specialize in designing and building scalable SaaS, ERP, and multi-tenant platforms with a strong focus on clean architecture, high performance, and maintainability.
 
-💼 **What I Do**
+## 💼 What I Do
 
 - 🏗️ Architect scalable backend systems
 - ⚙️ Build enterprise SaaS & ERP solutions
@@ -18,28 +20,22 @@ I specialize in designing and building scalable SaaS, ERP, and multi-tenant plat
 
 ## 🛠️ Tech Stack
 
-**Backend**
-
+### Backend
 `PHP` • `Laravel` • `Symfony` • `Lumen`
 
-**Architecture**
-
+### Architecture
 `Modular Monolith` • `DDD` • `SOLID` • `Clean Architecture` • `Service Layer` • `Multi-Tenancy`
 
-**Databases**
-
+### Databases
 `MySQL` • `PostgreSQL` • `Redis`
 
-**APIs**
-
+### APIs
 `REST API` • `GraphQL` • `OAuth2` • `JWT`
 
-**Testing**
-
+### Testing
 `PHPUnit` • `Pest`
 
-**DevOps**
-
+### DevOps
 `Linux` • `Nginx` • `Apache` • `GitHub Actions`
 
 ---
@@ -63,6 +59,16 @@ I specialize in designing and building scalable SaaS, ERP, and multi-tenant plat
 
 ---
 
+## ✍️ Technical Writing
+
+### 📖 Featured Article
+
+**Building a Scalable Laravel SaaS Architecture**
+
+https://medium.com/@karimosama1041997/building-a-scalable-laravel-saas-architecture-0c9f85cd77c6
+
+---
+
 ## 📊 Experience Snapshot
 
 - ✅ 7+ Years of Experience
@@ -82,7 +88,9 @@ I specialize in designing and building scalable SaaS, ERP, and multi-tenant plat
 
 💼 **LinkedIn:** https://linkedin.com/in/karim-osama-704909138
 
-🌐 **Website:** https://portfolio-two-orcin-99.vercel.app/
+🌐 **Portfolio:** https://portfolio-two-orcin-99.vercel.app/
+
+✍️ **Medium:** https://medium.com/@karimosama1041997
 
 ---
 
